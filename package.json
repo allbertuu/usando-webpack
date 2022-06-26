@@ -2,11 +2,10 @@
   "name": "usando-webpack",
   "version": "1.0.0",
   "description": "Criando uma aplicação do zero com Webpack",
-  "main": "index.js",
+  "main": "main.js",
   "private": "true",
   "scripts": {
-    "start:dev": "webpack-dev-server",
-    "build": "webpack",
+    "start": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
